@@ -15,7 +15,13 @@ I'm Lynette, a data analyst/financial analyst based in Kenya.
 Exploratory Data Analysis project on XYZ fashion company located in Portugal.
 - KPI Focus: Customer retention, product profitability, regional revenue contribution, and price elasticity
  - OKRs Achieved: Identified 15% growth in loyal customers, optimized discount strategies, and highlighted top‑performing regions.
-The whole project can be found here 
+
+🔗 The whole project can be found here: [EDA Project Repository](https://github.com/Lynxjnr-maxi/EDA-project)
+
+## 🌟 Fun Facts
+- Avid reader: Classical, self-help, and fictional literature as well as poems.
+- Movie and animation enthusiast.
+- 🐱 Cat lover — Daisy keeps me company while coding
 
 
 
